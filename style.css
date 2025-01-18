@@ -1,0 +1,26 @@
+.red-input-container {
+  background-color: red;
+  margin: auto;
+  padding: 10px 20px;
+  text-align: center;
+  width: 50%;
+  border-radius: 10px;
+}
+.red-input-container h1 {
+  color: white;
+}
+.red-input-container input,
+.red-input-container button {
+  padding: 5px 10px;
+  max-width: 100%;
+}
+.red-input-container button {
+  background-color: white;
+  cursor: pointer;
+
+  /* font-size: 1.2rem; */
+}
+.red-input-container button:hover {
+  background-color: gray;
+  color: white;
+}
